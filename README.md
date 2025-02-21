@@ -5,7 +5,7 @@ I'm a passionate **Medical AI Researcher** & **3D Data Enthusiast**! 🏥🧠
 - 🔬 Specializing in **Medical AI**, **Deep Learning**, and **3D Medical Imaging**  
 - 🧠 Working with **CT, MRI, and 3D reconstruction models**  
 - 🐍 Primarily using **Python** & **PyTorch** for research  
-- 💡 Interested in **computer vision, segmentation, and medical data processing**  
+
 
 ---
 
@@ -33,10 +33,6 @@ I'm a passionate **Medical AI Researcher** & **3D Data Enthusiast**! 🏥🧠
 📧 Gmail: **your-email@gmail.com**  
 
 ---
-
-### 🎨 Fun Stuff  
-![GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
-
 <!--
 **kyoung-lee/kyoung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
