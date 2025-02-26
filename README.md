@@ -1,24 +1,25 @@
-## Hi there 👋  
+## Hi👋  
 I'm a passionate **Medical AI Researcher** & **3D Data Enthusiast**! 🏥🧠  
 
 ### 🩺 About Me  
 - 🔬 Specializing in **Medical AI**, **Deep Learning**, and **3D Medical Imaging**  
 - 🧠 Working with **CT, MRI, and 3D Point Cloud models**  
-- 🐍 Primarily using **Python** & **PyTorch** for research  
-
 
 ---
 
 ### 🚀 Skills & Tech Stack  
 🛠 **Deep Learning & AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)    
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
 
 ---
 
 ### 📫 Connect with Me  
-📧 Gmail: **kevin960317@gmail.com**  
+📧 ![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white) **kevin960317@gmail.com**  
 
 ---
+
 <!--
 **kyoung-lee/kyoung-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
