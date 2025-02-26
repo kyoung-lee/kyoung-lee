@@ -3,7 +3,7 @@ I'm a passionate **Medical AI Researcher** & **3D Data Enthusiast**! 🏥🧠
 
 ### 🩺 About Me  
 - 🔬 Specializing in **Medical AI**, **Deep Learning**, and **3D Medical Imaging**  
-- 🧠 Working with **CT, MRI, and 3D Point Cloud models**  
+- 🧠 Working with **CT, MRI, and 3D Data**  
 
 ---
 
@@ -15,7 +15,7 @@ I'm a passionate **Medical AI Researcher** & **3D Data Enthusiast**! 🏥🧠
 ---
 
 ### 📫 Connect with Me  
-📧 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin960317@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin960317@gmail.com) 
 
 ---
 
